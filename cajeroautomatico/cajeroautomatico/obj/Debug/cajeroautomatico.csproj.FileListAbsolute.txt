@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.MainForm.resources
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\bin\Debug\cajeroautomatico.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\bin\Debug\cajeroautomatico.pdb
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.pdb
+C:\Users\USUARIO\Documents\SharpDevelop Projects\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.Form1.resources
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.csprojResolveAssemblyReference.cache
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.Form1.resources
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.MainForm.resources
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.csproj.GenerateResource.Cache
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.exe
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\bin\Debug\cajeroautomatico.exe
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\bin\Debug\cajeroautomatico.pdb
+D:\cajeroautomaticoproyecto\cajeroautomatico\cajeroautomatico\obj\Debug\cajeroautomatico.pdb
